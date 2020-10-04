@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/franciscolourenco/done
+maintainer = franciscolourenco
+description = Sends notification if terminal is in background when run finishing running
