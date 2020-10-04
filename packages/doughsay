@@ -1,4 +1,0 @@
-type = theme
-repository = https://github.com/doughsay/omf-theme-doughsay.git
-maintainer = Chris Dosé <chris.dose@gmail.com>
-description = A clean vcs aware oh-my-fish theme with optional asdf right-prompt

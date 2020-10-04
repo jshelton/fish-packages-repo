@@ -1,4 +1,0 @@
-type = theme
-repository = https://github.com/wolf-theme/fish-shell
-maintainer = Igor Oliveira <devigor.tere@gmail.com>
-description = A minimal dark theme for Fish Shell

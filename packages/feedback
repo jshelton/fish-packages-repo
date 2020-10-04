@@ -1,4 +1,0 @@
-type = plugin
-repository = https://gitlab.com/lusiadas/feedback
-maintainer = hThoreau
-description = Formatting to display feedback messages, usually in the context of a fish plugin.

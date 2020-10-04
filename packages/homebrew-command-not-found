@@ -1,3 +1,0 @@
-type = plugin
-repository = https://github.com/lfiolhais/plugin-homebrew-command-not-found
-description = Homebrew command not found plugin for the fish shell

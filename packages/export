@@ -1,3 +1,0 @@
-type = plugin
-repository = https://github.com/jcouyang/plugin-export
-description = export like bash

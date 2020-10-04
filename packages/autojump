@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/rominf/omf-plugin-autojump
-maintainer = Roman Inflianskas <infroma@gmail.com>
-description = Fish shell plugin for autojump integration 

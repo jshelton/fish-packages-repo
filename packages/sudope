@@ -1,3 +1,0 @@
-type = plugin
-repository = https://github.com/oh-my-fish/plugin-sudope.git
-description = sudope plugin for Oh-My-Fish. Quickly put 'sudo' in your command

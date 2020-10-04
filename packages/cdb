@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/zzamboni/plugin-cdb.git
-maintainer = Diego Zamboni <diego@zzamboni.org>
-description = Add cdb command - "cd to basename"

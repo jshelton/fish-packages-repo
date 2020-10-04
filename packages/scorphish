@@ -1,3 +1,0 @@
-type = theme
-repository = https://github.com/oh-my-fish/theme-scorphish
-description = Compact. Sufficient. PWD, Ruby+RVM, Python+VENV, Git status, Rust, NodeJS.

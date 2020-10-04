@@ -1,3 +1,0 @@
-type = plugin
-repository = https://github.com/oh-my-fish/plugin-gityaw
-description = Replace Git HTTPS remote by SSH one

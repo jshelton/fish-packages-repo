@@ -1,3 +1,0 @@
-type = plugin
-repository = https://github.com/deather/omf-sdk
-description = SDKman integration

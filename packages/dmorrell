@@ -1,3 +1,0 @@
-type = theme
-repository = https://github.com/reitzig/theme-dmorrell
-description = Minimal base prompt with comprehensive yet compact Git status.

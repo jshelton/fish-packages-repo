@@ -1,3 +1,0 @@
-type = plugin
-repository = https://github.com/oh-my-fish/plugin-jump
-description = A port of Jeroen Janssens’ “jump” utility.

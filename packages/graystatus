@@ -1,4 +1,0 @@
-type = theme
-repository = https://github.com/usami-k/graystatus
-maintainer = USAMI Kosuke <usami.kosuke@gmail.com>
-description = modest prompt theme for fish shell
