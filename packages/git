@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/jhillyerd/plugin-git.git
+maintainer = jhillyerd
+description = A git aliases plugin for Oh My Fish based loosely on the Oh My Zsh Git Plugin.
