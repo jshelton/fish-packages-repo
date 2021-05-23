@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/jshelton/brewAbbreviations.git
+maintainer = jshelton
+description = A brew aliases plugin for Oh My Fish.
