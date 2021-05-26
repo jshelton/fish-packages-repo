@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/jshelton/gh.git
+maintainer = jshelton
+description = A github local source organization system
