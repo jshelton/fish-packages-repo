@@ -1,4 +1,4 @@
-# [Oh My Fish][oh-my-fish] not official package repository
+# NOT [Oh My Fish][oh-my-fish] official package repository
 My personal package repository for the [Oh My Fish][oh-my-fish] [Fish shell][fish] framework.
 
 This repository contains a list of public Fish packages that can be installed by name using Oh My Fish. The goal of this repo is to maintain a discoverable index of quality Fish packages that can easily be maintained by the Fish community.
